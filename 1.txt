@@ -5,4 +5,6 @@ Git is free software.
 2
 3
 4
-666666666666666666666666666666666666666666
+Creating a new branch is quick.Creating a new branch is quick.
+6666666666
+
